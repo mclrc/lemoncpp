@@ -1,2 +1,2 @@
 # lemoncpp
-Small, lightweight 2D game engine
+Basically the C++ version of lemonjs
